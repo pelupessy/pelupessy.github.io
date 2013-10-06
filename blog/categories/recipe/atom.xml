@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: recept | My Blog]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/recept/atom.xml" rel="self"/>
+  <title><![CDATA[Category: recipe | My Blog]]></title>
+  <link href="http://pelupessy.github.io/blog/categories/recipe/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2013-10-06T22:16:16+02:00</updated>
+  <updated>2013-10-06T22:20:39+02:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
