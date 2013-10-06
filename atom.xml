@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2013-10-06T19:26:01+02:00</updated>
+  <updated>2013-10-06T19:28:13+02:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -31,6 +31,15 @@
 <h1>De mix:</h1>
 
 <p>Roer de geroosterde vleugeltjes en de hete saus door elkaar in een kom, zorg ervoor dat alle vleugeltjes royaal bedekt zijn door de saus.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://pelupessy.github.io/blog/2013/10/06/test/"/>
+    <updated>2013-10-06T16:49:00+02:00</updated>
+    <id>http://pelupessy.github.io/blog/2013/10/06/test</id>
+    <content type="html"><![CDATA[<p>Test post</p>
 ]]></content>
   </entry>
   
