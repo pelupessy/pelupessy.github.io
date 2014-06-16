@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: history | Research in Japan]]></title>
+  <link href="http://pelupessy.github.io/blog/categories/history/atom.xml" rel="self"/>
+  <link href="http://pelupessy.github.io/"/>
+  <updated>2014-06-16T22:45:10+09:00</updated>
+  <id>http://pelupessy.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Pelupessy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[history]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/02/09/history/"/>
+    <updated>2014-02-09T12:51:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/02/09/history</id>
+    <content type="html"><![CDATA[<p>This post is <strong>English</strong> only.</p>
+
+<p>この はなしがえいごであります。</p>
+
+<p>Deze post is enkel in het Engels.</p>
+
+<p><img class="center <a" src="href="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg">https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg</a>" title="David Hilbert, source: wikipedia" ></p>
+
+<!-- more -->
+
+
+<p>For a talk to high school students last Friday I was digging through some of my archives of interesting links.</p>
+
+<p><a href="https://encrypted.google.com/url?q=http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.pdf&amp;sa=U&amp;ei=MvP1UsOkHY3jlAWCuoDQCw&amp;ved=0CBoQFjAA&amp;usg=AFQjCNHguRoGidUR5geSIRmqBlaKqJZeZQ">I found this document</a>, which contains a link to a <a href="http://math.sfsu.edu/smith/Documents/HilbertRadio/HilbertRadio.mp3">recording</a> of a radio broadcast of David Hilbert (mp3 file is in German, the document contains an English translation). The broadcast is an excerpt of a speech in 1930 in Königsberg. In the broadcast Hilbert talks about the motivations for researching mathematics and choosing the subjects of mathematical research. I believe this to be the oldest audio recording of any famous mathematician.</p>
+
+<p>In 1900 Hilbert presented 10 of <a href="https://en.wikipedia.org/wiki/Hilbert's_problems">23 problems</a> which would influence mathematics to this day. For my own field the <a href="https://en.wikipedia.org/wiki/Hilbert's_second_problem">second problem</a> is of particular importance, as it gave rise to meta mathematics, proof theory and mathematical logic as disciplines. <a href="https://en.wikipedia.org/wiki/Godel_incompleteness">Gödel&rsquo;s answer</a> to the second question, the incompleteness theorems, stands at the root of my own research of unprovable theorems.</p>
+
+<p>I find it remarkable to be able to listen to a 1930&rsquo;s recording of my academic great-great-grandfather (advisor&rsquo;s advisor&rsquo;s advisor&rsquo;s advisor).</p>
+]]></content>
+  </entry>
+  
+</feed>

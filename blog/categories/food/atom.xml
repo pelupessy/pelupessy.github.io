@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: food | Research in Japan]]></title>
+  <link href="http://pelupessy.github.io/blog/categories/food/atom.xml" rel="self"/>
+  <link href="http://pelupessy.github.io/"/>
+  <updated>2014-06-16T22:45:10+09:00</updated>
+  <id>http://pelupessy.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Pelupessy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[soba]]></title>
+    <link href="http://pelupessy.github.io/blog/2013/12/07/soba/"/>
+    <updated>2013-12-07T20:23:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2013/12/07/soba</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/IMAG1262b.jpg" title="" ></p>
+
+<p><strong>English:</strong> The student restaurant also has a noodle kitchen! They serve ramen, udon and soba. The lady behind the counter sounded quite surprised when I ordered this soba (buckwheat) dish. I cannot imagine why.</p>
+
+<p><strong>Nederlands:</strong> De studenten hier kunnen ook gewoon bij een noedel keuken terecht! Ze serveren ramen, udon, en soba. De dame achter de kassa klonk verbaasd dat ik bovenstaande kom soba (boekweit) bestelde. Ik vraag me nog steeds af waarom.</p>
+
+<p><strong>にほんごで：</strong>だいがくのしょくどうにヌードルレストランがあります。らめんとうどんとそばがあります。そばをかいました。レストランのひとはおどろきました。どうして？</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: illumination | Research in Japan]]></title>
+  <link href="http://pelupessy.github.io/blog/categories/illumination/atom.xml" rel="self"/>
+  <link href="http://pelupessy.github.io/"/>
+  <updated>2014-06-16T22:45:10+09:00</updated>
+  <id>http://pelupessy.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Pelupessy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Illumination and Snow]]></title>
+    <link href="http://pelupessy.github.io/blog/2013/12/15/illumination/"/>
+    <updated>2013-12-15T20:47:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2013/12/15/illumination</id>
+    <content type="html"><![CDATA[<p><strong>English:</strong> Cold, snow and lights.</p>
+
+<p><strong>Nederlands:</strong> Kou, sneeuw en lampjes.</p>
+
+<p><strong>にほんご：</strong> さむいです。﻿ゆきがふっています。きれいイルミネーションあります。</p>
+
+<!-- more -->
+
+
+<p><img class="center" src="/images/IMAG1293b.jpg" title="" ></p>
+
+<p><img class="center" src="/images/IMAG1276b.jpg" title="" ></p>
+
+<p><img class="center" src="/images/IMAG1286b.jpg" title="" ></p>
+]]></content>
+  </entry>
+  
+</feed>
