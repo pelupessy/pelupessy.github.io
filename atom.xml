@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-06-29T20:28:24+09:00</updated>
+  <updated>2014-07-07T20:03:59+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[weather]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/07/07/weather/"/>
+    <updated>2014-07-07T19:56:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/07/07/weather</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/weer.jpg" title="" ></p>
+
+<p><strong>English:</strong> Yellow = Advisories, Red = Warnings, Typhoon season has started! Small detail: Sendai is in one of the grey areas.</p>
+
+<p><strong>:にほんごで:</strong> たいふう!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[konbini]]></title>
@@ -373,28 +386,6 @@
 <p><strong>English:</strong> The past week I was in Tokyo for the CTFM2014 workshop. This was a good opportunity to meet old acquaintances and make new ones. The logic researchers in Japan form a lively community. Their enthusiasm has also been noticed by the international guests, many of whom are regular visitors now. the focus on a limit number of subjects has helped keep the number of interesting talks high. The relaxed atmosphere helped the younger researchers feel confident enough to approach the international guests.</p>
 
 <p><strong>にほんごで:</strong> こんしゅうとうきょうへworkshopにいきた。たくさんけんきゅういんあった。にほんのけんきゅうしゃはねっしんだから、このworkshopはがいこくじんけんきゅいんがきています。﻿プレゼンテーションはよかった。とうきょうへくるゆうめいなけんきゅうしゃもそうおもいました。おつかれさまでした！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[science dialogue]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/02/15/science-dialogue/"/>
-    <updated>2014-02-15T11:43:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/02/15/science-dialogue</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/IMAG1391.jpg" title="" ></p>
-
-<!-- more -->
-
-
-<p><strong>English:</strong> The previous Friday I was invited to give a lecture at a high school in Yokote, Akita prefecture for the JSPS science dialogue programme. Yokote itself is a two and a half hour train ride from Sendai and was covered in a two meter snow layer. Luckily one of the restaurants serving the famous Yokote-yakisoba noodles was very near to the station.</p>
-
-<p>Naturally when arriving at the school we started by exchanging business cards. My collection is slowly growing. The lecture itself was for a group of about 50 students. One of the hosts suggested that this was the longest period of time the students heard someone speak English. I do hope they understood the main message from the lecture: research in science is very exciting, especially when you do not know the answers.</p>
-
-<p><strong>Nederlands:</strong> Vorige vrijdag mocht ik een praatje geven in een school in Yokote, een stadje zo een twee en een half uur rijden hiervandaan. Bij aankomst werden we verwelkomd met en pak sneeuw van zo een meter of twee. Gelukkig was er een restaurantje in de buurt van het station die de beroemde Yokote-yakisoba serveerde.</p>
-
-<p>Op de school begonnen we uiteraard met het uitwisselen van de visitekaartjes. Mijn begeleider had er zelf geen, maar de oplettende lezer weet inmiddels dat ik een klein voorraadje heb aangelegd. Het praatje was voor een groep van 50 leerlingen, eigenlijk iets te groot, bovendien zijn de leerlingen het Engels nog niet gewoon. Ik hoop in ieder geval dat ze het hoofdthema begrepen hebben: wetenschap is op zijn interessants als je de antwoorden niet weet.</p>
-
-<p><strong>にほんごで:</strong> せんしゅのきんようびよこてへサイエンスダイアログのプレゼンテーションにけんきゅうしゃのひとといった。ついたときよこてやきそばたべた。よこてはゆきが２メートルあった。がっこうでがくせいに５０にんえいごでおしえた。ちょっとたくさんひとだった。メインメッセージはすうがくがおもしろい。</p>
 ]]></content>
   </entry>
   
