@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-07-07T20:03:59+09:00</updated>
+  <updated>2014-07-31T19:10:33+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[books]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/07/31/books/"/>
+    <updated>2014-07-31T19:04:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/07/31/books</id>
+    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-VcB4nJg/0/O/i-VcB4nJg.jpg"><img class="center" src="http://www.smugmug.com/photos/i-VcB4nJg/0/X2/i-VcB4nJg-X2.jpg"></a></p>
+
+<p><strong>English:</strong> New study material.</p>
+
+<p><strong>にほんごで:</strong> れんしゅうにあたらしほん。</p>
+
+<p><strong>Nederlands:</strong> Nieuw oefenmateriaal.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[weather]]></title>
@@ -370,22 +385,6 @@
 <p>If, for six dots, you connect each pair of dots with either a red or a blue line then at least three of the dots will be connected by lines of the same colour. The image above shows that five dots are not enough. The fact that you can do this for any number of dots (though the total number of dots needed is somewhat larger than 6) is known as Ramsey&rsquo;s theorem. Funny consequence: if you have a party of six persons then three of them will either all be friends or all not be friends.</p>
 
 <p>By the way, for four dots all connected by the same colour you would need 18 dots, for five the number which is required is not known. I find it truly delightful that such a concretely stated question already turns out to be extremely hard to answer.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[workshop]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/02/23/workshop/"/>
-    <updated>2014-02-23T19:31:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/02/23/workshop</id>
-    <content type="html"><![CDATA[<p><strong>Nederlands:</strong> Afgelopen week was er de CTFM2014 workshop in Tokio. Een mooie gelegenheid om oude bekenden tegen te komen en nieuwe kennissen op te doen. De logica onderzoekers in Japan vormen een levendige gemeenschap. Het enthousiasme werkt dan ook zeer aanstekelijk op de internationale gasten. De focus op een een beperkt aantal onderwerpen heeft, denk ik, geholpen dat het aantal interessante presentaties hoog was. De ontspannen sfeer zorgde ervoor dat de jongere onderzoekers zich vrij genoeg voelden om te communiceren met internationale onderzoekers.</p>
-
-<!-- more -->
-
-
-<p><strong>English:</strong> The past week I was in Tokyo for the CTFM2014 workshop. This was a good opportunity to meet old acquaintances and make new ones. The logic researchers in Japan form a lively community. Their enthusiasm has also been noticed by the international guests, many of whom are regular visitors now. the focus on a limit number of subjects has helped keep the number of interesting talks high. The relaxed atmosphere helped the younger researchers feel confident enough to approach the international guests.</p>
-
-<p><strong>にほんごで:</strong> こんしゅうとうきょうへworkshopにいきた。たくさんけんきゅういんあった。にほんのけんきゅうしゃはねっしんだから、このworkshopはがいこくじんけんきゅいんがきています。﻿プレゼンテーションはよかった。とうきょうへくるゆうめいなけんきゅうしゃもそうおもいました。おつかれさまでした！</p>
 ]]></content>
   </entry>
   
