@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-07-31T19:10:33+09:00</updated>
+  <updated>2014-08-03T21:03:25+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[small facts Sunday]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/08/03/misc/"/>
+    <updated>2014-08-03T20:59:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/08/03/misc</id>
+    <content type="html"><![CDATA[<p><strong>English:</strong> With the summer the cicadas have also arrived. Their song when arriving and leaving the university is strangely comforting.</p>
+
+<p>Translation websites have a high amusement value, but are of little help with reading Japanese text.</p>
+
+<p>In many places one can see little statues adorned with bibs. These <em>Jizou</em> statues are protectors of travellers and children. One of the books in the picture in the previous post has them on the cover. A poor hat-maker, after an unlucky day not being able to sell his hats, gives the hats to the jizou to protect them from the snow. Later they leave rice, miso and fish at his door so he can properly celebrate the new year.</p>
+
+<p><strong>にほんごで:</strong> いまセミある。おとはよい。</p>
+
+<p>にほんのはなしはグーグルtranslateでたのし、でもつかいことができない。</p>
+
+<p>にほんはじぞうがたくさんある。かさじぞうのはなしはおもしろい。じいさんじぞうにかさをくれた、ゆきがふっていたから。そうしてじいさんはじぞうにごはんとみそとしょうがつさかなをもらいました。じいとばあはうれしかった。</p>
+
+<p>じぞうたいせつですね。そうならいました。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[books]]></title>
@@ -353,38 +374,6 @@
 <p>About the trains, they are sometimes just as busy as certain films suggest. More impressive is the fact that the next train, which departs five minutes later is just as full.</p>
 
 <p><strong>にほんごで:</strong> とうきょうはでんしゃのつかいかたがはやい。ときどきとてもにぎやかですそしていっぱいですから。えいがのような! とうきょうはしんせつすることできるじかんがないひとあります。ざんえんです。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pigeons]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/03/01/pigeons/"/>
-    <updated>2014-03-01T20:01:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/03/01/pigeons</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/pigeons.jpg" title="" ></p>
-
-<p><strong>Nederlands:</strong> Deze week weer enkel in het Engels.</p>
-
-<p><strong>にほんごで:</strong> こんしゅはなしはにほんごですこしむずかしから。にほんごでありません。</p>
-
-<p><strong>English:</strong> The past few weeks there have been many mentions of the pigeon hole principle at work. First, for fun, I put it in my science dialogue slides. Then one of the Belgian guest mentioned it, after that it got mentioned several times in the workshop.</p>
-
-<p>We start with the simple question on what happens if you put ten pigeons into 9 holes:</p>
-
-<!-- more -->
-
-
-<p><img class="center" src="http://pelupessy.github.io/images/pigeon10in9.jpg" title="image borrowed from wikipedia" ></p>
-
-<p>In general, if you have more objects than holes, at least one of the holes will contain at least two of the objects. Exercise for the reader: how many pigeons do you need to guarantee (however you put them into the holes) that one of m holes contains at least n pigeons? Funny consequence: in Tokyo there are at least two people who have precisely the same number of hairs (even if you exclude the bald people).</p>
-
-<p>The pigeon hole principle is also a stepping stone to another interesting principle: Ramsey&rsquo;s theorem.</p>
-
-<p><img class="center" src="http://pelupessy.github.io/images/Ramsey.jpg" title="image borrowed from wikipedia" ></p>
-
-<p>If, for six dots, you connect each pair of dots with either a red or a blue line then at least three of the dots will be connected by lines of the same colour. The image above shows that five dots are not enough. The fact that you can do this for any number of dots (though the total number of dots needed is somewhat larger than 6) is known as Ramsey&rsquo;s theorem. Funny consequence: if you have a party of six persons then three of them will either all be friends or all not be friends.</p>
-
-<p>By the way, for four dots all connected by the same colour you would need 18 dots, for five the number which is required is not known. I find it truly delightful that such a concretely stated question already turns out to be extremely hard to answer.</p>
 ]]></content>
   </entry>
   
