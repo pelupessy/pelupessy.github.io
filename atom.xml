@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-08-24T19:15:46+09:00</updated>
+  <updated>2014-09-02T20:45:10+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[okashi]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/09/02/okashi/"/>
+    <updated>2014-09-02T20:09:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/09/02/okashi</id>
+    <content type="html"><![CDATA[<p><strong>English:</strong> Japanese traditional sweets are somewhat unusual. Many of them are some variant of <em>mochi</em>, a ball made from pound rice or rice flower.</p>
+
+<p><a href="http://www.smugmug.com/photos/i-hqDjtFR/0/O/i-hqDjtFR.jpg"><img class="center" src="http://www.smugmug.com/photos/i-hqDjtFR/0/X2/i-hqDjtFR-X2.jpg"></a></p>
+
+<!-- more -->
+
+
+<p><strong>English:</strong> <em>Daifuku mochi</em> can contain some sweet filling, like red bean paste or even sweet potatoe. <em>Kushi Dango</em> is several of the sweets on a skewer, possibly with some sweet sauce on top.</p>
+
+<p><a href="http://www.smugmug.com/photos/i-nvTw3wN/0/O/i-nvTw3wN.jpg"><img class="center" src="http://www.smugmug.com/photos/i-nvTw3wN/0/X2/i-nvTw3wN-X2.jpg"></a></p>
+
+<p><strong>にほんごで:</strong> のひんのおかしだいすき！　たくさんのほんのはなしはだれかがなかまになるうにもちをもらう。わかるよ、もちがおいしから。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[onigiri]]></title>
@@ -365,24 +385,6 @@
     <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/dancingBW.jpg" title="" ></p>
 
 <p><img class="center" src="http://pelupessy.github.io/images/dancingBW2.jpg" title="" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[spring 2]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/04/12/spring2/"/>
-    <updated>2014-04-12T20:17:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/04/12/spring2</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/bloem2.jpg" title="" ></p>
-
-<!-- more -->
-
-
-<p><img class="center" src="http://pelupessy.github.io/images/meta2.jpg" title="" ></p>
-
-<p><img class="center" src="http://pelupessy.github.io/images/meta.jpg" title="" ></p>
-
-<p><img class="center" src="http://pelupessy.github.io/images/bloem1.jpg" title="" ></p>
 ]]></content>
   </entry>
   
