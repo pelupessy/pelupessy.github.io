@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-09-02T20:45:10+09:00</updated>
+  <updated>2014-09-11T18:54:17+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[rain]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/09/11/rain/"/>
+    <updated>2014-09-11T18:46:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/09/11/rain</id>
+    <content type="html"><![CDATA[<p>みちは</p>
+
+<p>かわのよう</p>
+
+<p>あめのみずが</p>
+
+<p>ありました</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[okashi]]></title>
@@ -374,17 +389,6 @@
 <p><strong>にほんごで:</strong> がいこくはひとがサンシャインすき。にほんはさくらのときはなみするがすき。どようびのあさにまつひとのしゃしんをかたひらキャンパスでとった。</p>
 
 <p><img class="center" src="http://pelupessy.github.io/images/otokonoko.jpg" title="" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[たのしいね。]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/04/16/tafalsesii/"/>
-    <updated>2014-04-16T20:37:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/04/16/tafalsesii</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/dancingBW.jpg" title="" ></p>
-
-<p><img class="center" src="http://pelupessy.github.io/images/dancingBW2.jpg" title="" ></p>
 ]]></content>
   </entry>
   
