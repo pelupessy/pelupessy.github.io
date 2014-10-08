@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-10-06T19:19:05+09:00</updated>
+  <updated>2014-10-08T20:40:29+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[some more rain]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/10/08/some-more-rain/"/>
+    <updated>2014-10-08T20:29:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/10/08/some-more-rain</id>
+    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-fHk6Lqf/0/O/i-fHk6Lqf.png"><img class="center" src="http://www.smugmug.com/photos/i-fHk6Lqf/0/L/i-fHk6Lqf-L.png"></a></p>
+
+<p><strong>English:</strong> It seems that there will be some more rain this weekend.</p>
+
+<p><strong>にほんごで:</strong> すこしあめとかぜがちかづいている。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[small facts Monday]]></title>
@@ -385,19 +398,6 @@
     <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/asakusa.jpg" title="" ></p>
 
 <p><img class="center" src="http://pelupessy.github.io/images/asakusalion.jpg" title="" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kachikachi 2]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/05/22/kachikachi2/"/>
-    <updated>2014-05-22T23:58:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/05/22/kachikachi2</id>
-    <content type="html"><![CDATA[<p><strong>Nederlands:</strong> Geheel gemist bij het voor het eerst lezen: het wasbeertje weet niet alleen de oude vrouw een flinke mep te geven, hij maakt er ook nog eens oude-vrouwtjessoep van om aan de man te voeren.</p>
-
-<p><strong>English:</strong> Completely missed this while reading the story for the first time: the raccoon not only hits the old woman, he also makes her into a soup and feeds her to the husband.</p>
-
-<p><strong>にほんごで:</strong> じいさま、じいさま、じるをたべないで！</p>
 ]]></content>
   </entry>
   
