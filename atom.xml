@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-10-08T20:43:27+09:00</updated>
+  <updated>2014-10-12T19:35:27+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[drill]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/10/12/drill/"/>
+    <updated>2014-10-12T19:21:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/10/12/drill</id>
+    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-RsM6fRS/0/O/i-RsM6fRS.jpg"><img class="center" src="http://www.smugmug.com/photos/i-RsM6fRS/0/XL/i-RsM6fRS-XL.jpg"></a></p>
+
+<p><strong>English:</strong> This week we had an earthquake drill at the university. The cookies can also be used to test the helmet.</p>
+
+<p><strong>にほんごで:</strong> こんしゅうだいがくにじしんくんれんあった。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[some more rain]]></title>
@@ -387,17 +400,6 @@
 <p><strong>English:</strong> Some Japanese people do take their coffee very seriously. There are lots of coffee shops in Tokyo serving excellent coffee.</p>
 
 <p><strong>にほんごで:</strong> とうきょうはたくさんコーヒショっプがある。うまい！　あついあるときicedでいい。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[asakusa in the dark]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/06/02/asakusa-by-night/"/>
-    <updated>2014-06-02T21:20:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/06/02/asakusa-by-night</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://pelupessy.github.io/images/asakusa.jpg" title="" ></p>
-
-<p><img class="center" src="http://pelupessy.github.io/images/asakusalion.jpg" title="" ></p>
 ]]></content>
   </entry>
   
