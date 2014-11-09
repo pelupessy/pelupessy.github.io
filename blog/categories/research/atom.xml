@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/research/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-09T19:51:31+09:00</updated>
+  <updated>2014-11-09T20:00:53+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://pelupessy.github.io/blog/2014/03/01/pigeons/"/>
     <updated>2014-03-01T20:01:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2014/03/01/pigeons</id>
-    <content type="html"><![CDATA[<p>{% img center /images/pigeons.jpg  %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/pigeons.jpg" title="" ></p>
 
 <p><strong>Nederlands:</strong> Deze week weer enkel in het Engels.</p>
 
@@ -31,13 +31,13 @@
 <!-- more -->
 
 
-<p>{% img center /images/pigeon10in9.jpg image borrowed from wikipedia %}</p>
+<p><img class="center" src="/images/pigeon10in9.jpg" title="image borrowed from wikipedia" ></p>
 
 <p>In general, if you have more objects than holes, at least one of the holes will contain at least two of the objects. Exercise for the reader: how many pigeons do you need to guarantee (however you put them into the holes) that one of m holes contains at least n pigeons? Funny consequence: in Tokyo there are at least two people who have precisely the same number of hairs (even if you exclude the bald people).</p>
 
 <p>The pigeon hole principle is also a stepping stone to another interesting principle: Ramsey&rsquo;s theorem.</p>
 
-<p>{% img center /images/Ramsey.jpg image borrowed from wikipedia %}</p>
+<p><img class="center" src="/images/Ramsey.jpg" title="image borrowed from wikipedia" ></p>
 
 <p>If, for six dots, you connect each pair of dots with either a red or a blue line then at least three of the dots will be connected by lines of the same colour. The image above shows that five dots are not enough. The fact that you can do this for any number of dots (though the total number of dots needed is somewhat larger than 6) is known as Ramsey&rsquo;s theorem. Funny consequence: if you have a party of six persons then three of them will either all be friends or all not be friends.</p>
 
@@ -66,7 +66,7 @@
     <link href="http://pelupessy.github.io/blog/2014/02/15/science-dialogue/"/>
     <updated>2014-02-15T11:43:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2014/02/15/science-dialogue</id>
-    <content type="html"><![CDATA[<p>{% img center /images/IMAG1391.jpg  %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/IMAG1391.jpg" title="" ></p>
 
 <!-- more -->
 
@@ -94,7 +94,7 @@
 
 <p>Deze post is enkel in het Engels.</p>
 
-<p>{% img center <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg">https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg</a> David Hilbert, source: wikipedia%}</p>
+<p><img class="center <a" src="href="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg">https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg</a>" title="David Hilbert, source: wikipedia" ></p>
 
 <!-- more -->
 
@@ -132,7 +132,7 @@
 
 <p>Tomorrow we have another holiday: coming of age day.</p>
 
-<p>{% img center /images/slidetitlepage.jpg  %}</p>
+<p><img class="center" src="/images/slidetitlepage.jpg" title="" ></p>
 ]]></content>
   </entry>
   

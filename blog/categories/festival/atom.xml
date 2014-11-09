@@ -4,7 +4,7 @@
   <title><![CDATA[Category: festival | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/festival/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-09T19:51:31+09:00</updated>
+  <updated>2014-11-09T20:00:53+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://pelupessy.github.io/blog/2013/11/02/festival/"/>
     <updated>2013-11-02T13:37:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2013/11/02/festival</id>
-    <content type="html"><![CDATA[<p>{% img center /images/IMAG1213.jpg %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/IMAG1213.jpg"></p>
 ]]></content>
   </entry>
   

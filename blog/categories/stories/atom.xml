@@ -4,7 +4,7 @@
   <title><![CDATA[Category: stories | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/stories/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-09T19:51:31+09:00</updated>
+  <updated>2014-11-09T20:00:53+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://pelupessy.github.io/blog/2014/05/11/kachikachi/"/>
     <updated>2014-05-11T18:11:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2014/05/11/kachikachi</id>
-    <content type="html"><![CDATA[<p>{% img center /images/kachikachi.jpg  %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/kachikachi.jpg" title="" ></p>
 
 <!-- more -->
 

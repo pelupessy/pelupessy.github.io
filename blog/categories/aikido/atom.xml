@@ -4,7 +4,7 @@
   <title><![CDATA[Category: aikido | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/aikido/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-09T19:51:31+09:00</updated>
+  <updated>2014-11-09T20:00:53+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -36,7 +36,7 @@
 
 <p>Tomorrow we have another holiday: coming of age day.</p>
 
-<p>{% img center /images/slidetitlepage.jpg  %}</p>
+<p><img class="center" src="/images/slidetitlepage.jpg" title="" ></p>
 ]]></content>
   </entry>
   
@@ -47,11 +47,11 @@
     <id>http://pelupessy.github.io/blog/2013/12/22/miscellaneous5</id>
     <content type="html"><![CDATA[<p><strong>Nederlands:</strong> Wiskundigen worden soms wel machines genoemd die dit:</p>
 
-<p>{% img center /images/IMAG1264b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1264b.jpg" title="" ></p>
 
 <p>naar dit omzetten:</p>
 
-<p>{% img center /images/IMAG1265b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1265b.jpg" title="" ></p>
 
 <!-- more -->
 
@@ -64,11 +64,11 @@
 
 <p><strong>にほんごで:</strong> すうがくは：</p>
 
-<p>{% img center /images/IMAG1264b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1264b.jpg" title="" ></p>
 
 <p>から：</p>
 
-<p>{% img center /images/IMAG1265b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1265b.jpg" title="" ></p>
 
 <p>をつくるです。だからコーヒーがたいせつです。</p>
 
@@ -78,11 +78,11 @@
 
 <p><strong>English</strong> Sometimes mathematicians are called machines which turn this:</p>
 
-<p>{% img center /images/IMAG1264b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1264b.jpg" title="" ></p>
 
 <p>into this:</p>
 
-<p>{% img center /images/IMAG1265b.jpg  %}</p>
+<p><img class="center" src="/images/IMAG1265b.jpg" title="" ></p>
 
 <p>So coffee is somewhat important. I am happy to report that coffee availability in Japan is good!</p>
 
