@@ -4,7 +4,7 @@
   <title><![CDATA[Category: image | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/image/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-02T19:57:24+09:00</updated>
+  <updated>2014-11-09T19:51:31+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -14,11 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Small observations Sunday]]></title>
+    <link href="http://pelupessy.github.io/blog/2014/11/09/misc15/"/>
+    <updated>2014-11-09T19:17:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2014/11/09/misc15</id>
+    <content type="html"><![CDATA[<p><strong>えいごで:</strong> The aikido training sessions are the easiest times for putting Japanese into practice, one can just use a few keywords to talk about the exercises. When one does not remember the right words you can easily just explain/be explained  by showing. An important phrase during practice is, of course to apologise:  <em>shitsureishimashita</em>.</p>
+
+<p><strong>Japanese:</strong>  あいきどけいことき、はなしはにほんごでだいじょうぶ。ときどきにほんごでわざをおしえかたをしっていない。そのときみせる。</p>
+
+<p>7月しゃしんをきょうとでとった。</p>
+
+<p><a href="http://www.smugmug.com/photos/i-JrjH27D/0/O/i-JrjH27D.jpg">{% img center http://www.smugmug.com/photos/i-JrjH27D/0/X2/i-JrjH27D-X2.jpg %}</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[wildlife]]></title>
     <link href="http://pelupessy.github.io/blog/2014/10/27/wildlife/"/>
     <updated>2014-10-27T18:53:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2014/10/27/wildlife</id>
-    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-cLv7fvV/0/O/i-cLv7fvV.jpg"><img class="center" src="http://www.smugmug.com/photos/i-cLv7fvV/0/X2/i-cLv7fvV-X2.jpg"></a></p>
+    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-cLv7fvV/0/O/i-cLv7fvV.jpg">{% img center http://www.smugmug.com/photos/i-cLv7fvV/0/X2/i-cLv7fvV-X2.jpg %}</a></p>
 ]]></content>
   </entry>
   
@@ -31,7 +46,7 @@
 
 <p><strong>にほんごで:</strong> もういちど、たいふう！</p>
 
-<p><a href="http://www.smugmug.com/photos/i-MFmRjPt/0/O/i-MFmRjPt.jpg"><img class="center" src="http://www.smugmug.com/photos/i-MFmRjPt/0/XL/i-MFmRjPt-XL.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-MFmRjPt/0/O/i-MFmRjPt.jpg">{% img center http://www.smugmug.com/photos/i-MFmRjPt/0/XL/i-MFmRjPt-XL.jpg %}</a></p>
 
 <!-- more -->
 
@@ -40,7 +55,7 @@
 
 <p><strong>Japanese:</strong>　きょうざいりゅうきかんこうしんをもらいました。しゅうにゅういんしではらわなければなりませんでした。</p>
 
-<p><a href="http://www.smugmug.com/photos/i-TLFBX47/0/O/i-TLFBX47.jpg"><img class="center" src="http://www.smugmug.com/photos/i-TLFBX47/0/X2/i-TLFBX47-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-TLFBX47/0/O/i-TLFBX47.jpg">{% img center http://www.smugmug.com/photos/i-TLFBX47/0/X2/i-TLFBX47-X2.jpg %}</a></p>
 ]]></content>
   </entry>
   
@@ -53,19 +68,19 @@
 
 <p><strong>にほんごで:</strong> ひろしまへいきました。</p>
 
-<p><a href="http://www.smugmug.com/photos/i-S5q45Ff/0/O/i-S5q45Ff.jpg"><img class="center" src="http://www.smugmug.com/photos/i-S5q45Ff/0/X2/i-S5q45Ff-X2.jpg"></a>
+<p><a href="http://www.smugmug.com/photos/i-S5q45Ff/0/O/i-S5q45Ff.jpg">{% img center http://www.smugmug.com/photos/i-S5q45Ff/0/X2/i-S5q45Ff-X2.jpg %}</a>
 ひろしまだいがく, Hiroshima University</p>
 
-<p><a href="http://www.smugmug.com/photos/i-Mg2sMxw/0/O/i-Mg2sMxw.jpg"><img class="center" src="http://www.smugmug.com/photos/i-Mg2sMxw/0/X2/i-Mg2sMxw-X2.jpg"></a>
+<p><a href="http://www.smugmug.com/photos/i-Mg2sMxw/0/O/i-Mg2sMxw.jpg">{% img center http://www.smugmug.com/photos/i-Mg2sMxw/0/X2/i-Mg2sMxw-X2.jpg %}</a>
 おこのみやき, okonomiyaki</p>
 
-<p><a href="http://www.smugmug.com/photos/i-5xFFWQd/0/O/i-5xFFWQd.jpg"><img class="center" src="http://www.smugmug.com/photos/i-5xFFWQd/0/X2/i-5xFFWQd-X2.jpg"></a>
+<p><a href="http://www.smugmug.com/photos/i-5xFFWQd/0/O/i-5xFFWQd.jpg">{% img center http://www.smugmug.com/photos/i-5xFFWQd/0/X2/i-5xFFWQd-X2.jpg %}</a>
 げんばくドーム , Hiroshima Prefectural Industrial Promotion Hall</p>
 
-<p><a href="http://www.smugmug.com/photos/i-PWpWsQ5/0/O/i-PWpWsQ5.jpg"><img class="center" src="http://www.smugmug.com/photos/i-PWpWsQ5/0/X2/i-PWpWsQ5-X2.jpg"></a>
+<p><a href="http://www.smugmug.com/photos/i-PWpWsQ5/0/O/i-PWpWsQ5.jpg">{% img center http://www.smugmug.com/photos/i-PWpWsQ5/0/X2/i-PWpWsQ5-X2.jpg %}</a>
 げんばくのこのぞう, Children&rsquo;s peace monument</p>
 
-<p><a href="http://www.smugmug.com/photos/i-67k8ndG/0/O/i-67k8ndG.jpg"><img class="center" src="http://www.smugmug.com/photos/i-67k8ndG/0/X2/i-67k8ndG-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-67k8ndG/0/O/i-67k8ndG.jpg">{% img center http://www.smugmug.com/photos/i-67k8ndG/0/X2/i-67k8ndG-X2.jpg %}</a></p>
 ]]></content>
   </entry>
   
@@ -80,40 +95,20 @@
 
 <p><strong>Nederlands:</strong> Raadseltje: welke van de volgende tuinen horen niet in het rijtje thuis?</p>
 
-<p><a href="http://www.smugmug.com/photos/i-vVfdV9N/0/O/i-vVfdV9N.jpg"><img class="center" src="http://www.smugmug.com/photos/i-vVfdV9N/0/X2/i-vVfdV9N-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-vVfdV9N/0/O/i-vVfdV9N.jpg">{% img center http://www.smugmug.com/photos/i-vVfdV9N/0/X2/i-vVfdV9N-X2.jpg %}</a></p>
 
 <!-- more -->
 
 
-<p><a href="http://www.smugmug.com/photos/i-5h3fjXZ/0/O/i-5h3fjXZ.jpg"><img class="center" src="http://www.smugmug.com/photos/i-5h3fjXZ/0/X2/i-5h3fjXZ-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-5h3fjXZ/0/O/i-5h3fjXZ.jpg">{% img center http://www.smugmug.com/photos/i-5h3fjXZ/0/X2/i-5h3fjXZ-X2.jpg %}</a></p>
 
-<p><a href="http://www.smugmug.com/photos/i-rQfCQpm/0/O/i-rQfCQpm.jpg"><img class="center" src="http://www.smugmug.com/photos/i-rQfCQpm/0/X2/i-rQfCQpm-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-rQfCQpm/0/O/i-rQfCQpm.jpg">{% img center http://www.smugmug.com/photos/i-rQfCQpm/0/X2/i-rQfCQpm-X2.jpg %}</a></p>
 
-<p><a href="http://www.smugmug.com/photos/i-VS5WvSd/0/O/i-VS5WvSd.jpg"><img class="center" src="http://www.smugmug.com/photos/i-VS5WvSd/0/X2/i-VS5WvSd-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-VS5WvSd/0/O/i-VS5WvSd.jpg">{% img center http://www.smugmug.com/photos/i-VS5WvSd/0/X2/i-VS5WvSd-X2.jpg %}</a></p>
 
-<p><a href="http://www.smugmug.com/photos/i-vLcKJqc/0/O/i-vLcKJqc.jpg"><img class="center" src="http://www.smugmug.com/photos/i-vLcKJqc/0/X2/i-vLcKJqc-X2.jpg"></a></p>
+<p><a href="http://www.smugmug.com/photos/i-vLcKJqc/0/O/i-vLcKJqc.jpg">{% img center http://www.smugmug.com/photos/i-vLcKJqc/0/X2/i-vLcKJqc-X2.jpg %}</a></p>
 
-<p><a href="http://www.smugmug.com/photos/i-hwpXpNF/0/O/i-hwpXpNF.jpg"><img class="center" src="http://www.smugmug.com/photos/i-hwpXpNF/0/X2/i-hwpXpNF-X2.jpg"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[okashi]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/09/02/okashi/"/>
-    <updated>2014-09-02T20:09:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/09/02/okashi</id>
-    <content type="html"><![CDATA[<p><strong>English:</strong> Japanese traditional sweets are somewhat unusual. Many of them are some variant of <em>mochi</em>, a ball made from pound rice or rice flower.</p>
-
-<p><a href="http://www.smugmug.com/photos/i-hqDjtFR/0/O/i-hqDjtFR.jpg"><img class="center" src="http://www.smugmug.com/photos/i-hqDjtFR/0/X2/i-hqDjtFR-X2.jpg"></a></p>
-
-<!-- more -->
-
-
-<p><strong>English:</strong> <em>Daifuku mochi</em> can contain some sweet filling, like red bean paste or even sweet potatoe. <em>Kushi Dango</em> is several of the sweets on a skewer, possibly with some sweet sauce on top.</p>
-
-<p><a href="http://www.smugmug.com/photos/i-nvTw3wN/0/O/i-nvTw3wN.jpg"><img class="center" src="http://www.smugmug.com/photos/i-nvTw3wN/0/X2/i-nvTw3wN-X2.jpg"></a></p>
-
-<p><strong>にほんごで:</strong> にほんのおかしだいすき！　たくさんのほんのはなしはだれかがなかまになりにもちをもらう。わかるよ、もちがおいしから。</p>
+<p><a href="http://www.smugmug.com/photos/i-hwpXpNF/0/O/i-hwpXpNF.jpg">{% img center http://www.smugmug.com/photos/i-hwpXpNF/0/X2/i-hwpXpNF-X2.jpg %}</a></p>
 ]]></content>
   </entry>
   

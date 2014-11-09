@@ -4,7 +4,7 @@
   <title><![CDATA[Category: history | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/history/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-02T19:57:24+09:00</updated>
+  <updated>2014-11-09T19:51:31+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -24,7 +24,7 @@
 
 <p>Deze post is enkel in het Engels.</p>
 
-<p><img class="center <a" src="href="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg">https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg</a>" title="David Hilbert, source: wikipedia" ></p>
+<p>{% img center <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg">https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg</a> David Hilbert, source: wikipedia%}</p>
 
 <!-- more -->
 

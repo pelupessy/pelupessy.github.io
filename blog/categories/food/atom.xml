@@ -4,7 +4,7 @@
   <title><![CDATA[Category: food | Research in Japan]]></title>
   <link href="http://pelupessy.github.io/blog/categories/food/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2014-11-02T19:57:24+09:00</updated>
+  <updated>2014-11-09T19:51:31+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://pelupessy.github.io/blog/2014/08/24/onigiri/"/>
     <updated>2014-08-24T18:34:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2014/08/24/onigiri</id>
-    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-q6qgRFw/0/O/i-q6qgRFw.jpg"><img class="center" src="http://www.smugmug.com/photos/i-q6qgRFw/0/X2/i-q6qgRFw-X2.jpg"></a></p>
+    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-q6qgRFw/0/O/i-q6qgRFw.jpg">{% img center http://www.smugmug.com/photos/i-q6qgRFw/0/X2/i-q6qgRFw-X2.jpg %}</a></p>
 
 <p><strong>English:</strong> The greatest invention since sliced bread is the <em>onigiri</em>, a rice ball which is wrapped in <em>nori</em>. Each of them contains a small portion of fish, chicken, sour plumb or <em>konbu</em>.</p>
 
@@ -33,7 +33,7 @@
     <link href="http://pelupessy.github.io/blog/2013/12/07/soba/"/>
     <updated>2013-12-07T20:23:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2013/12/07/soba</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/IMAG1262b.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/IMAG1262b.jpg  %}</p>
 
 <p><strong>English:</strong> The student restaurant also has a noodle kitchen! They serve ramen, udon and soba. The lady behind the counter sounded quite surprised when I ordered this soba (buckwheat) dish. I cannot imagine why.</p>
 
