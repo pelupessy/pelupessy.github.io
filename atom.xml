@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2015-03-25T21:34:36+09:00</updated>
+  <updated>2015-04-01T20:59:28+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[spicy]]></title>
+    <link href="http://pelupessy.github.io/blog/2015/04/01/spicy/"/>
+    <updated>2015-04-01T20:52:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2015/04/01/spicy</id>
+    <content type="html"><![CDATA[<p>ともだちいっしょにラーメンたべた。からかった、でもおいしかった。</p>
+
+<p><a href="http://www.smugmug.com/photos/i-tMDwVMN/0/O/i-tMDwVMN.jpg"><img class="center" src="http://www.smugmug.com/photos/i-tMDwVMN/0/X2/i-tMDwVMN-X2.jpg"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[chankonabe]]></title>
@@ -346,19 +357,6 @@
 <p><strong>English:</strong> This week we had an earthquake drill at the university. The cookies can also be used to test the helmet.</p>
 
 <p><strong>にほんごで:</strong> こんしゅうだいがくにじしんくんれんあった。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[some more rain]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/10/08/some-more-rain/"/>
-    <updated>2014-10-08T20:29:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/10/08/some-more-rain</id>
-    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-fHk6Lqf/0/O/i-fHk6Lqf.png"><img class="center" src="http://www.smugmug.com/photos/i-fHk6Lqf/0/L/i-fHk6Lqf-L.png"></a></p>
-
-<p><strong>English:</strong> It seems that there will be some more rain this weekend.</p>
-
-<p><strong>にほんごで:</strong> あめとかぜがすこしちかづいている。</p>
 ]]></content>
   </entry>
   
