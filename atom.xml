@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2015-07-19T19:44:27+09:00</updated>
+  <updated>2015-08-16T20:40:07+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -14,7 +14,40 @@
 
   
   <entry>
-    <title type="html"><![CDATA[akashi]]></title>
+    <title type="html"><![CDATA[Small observations Sunday]]></title>
+    <link href="http://pelupessy.github.io/blog/2015/08/16/misc21/"/>
+    <updated>2015-08-16T19:09:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2015/08/16/misc21</id>
+    <content type="html"><![CDATA[<p><strong>えいごで:</strong> The famously hot Japanese summer is now in full force. This period is easily recognised by the chirping of cicada&rsquo;s, hot temperature and bouts of heavy rain caused by passing typhoons. Luckily, in Sendai temperatures are quite mild in comparison to West-Japan.</p>
+
+<p>In Japan the feature-phones are still in heavy use. Japanese text input is surprisingly easy, provided that one has learned the <a href="http://www.textfugu.com/resources/hiragana-chart/">a-i-u-e-o</a> of the hiragana charts.</p>
+
+<p><img class="center" src="http://www.smugmug.com/photos/i-jk34ggN/0/L/i-jk34ggN-L.jpg"></p>
+
+<p>For kanji-mode, the shown <em>hiragana</em>  (phonetic symbols) are:</p>
+
+<p>a    ka   sa <br/>
+ta   na   ha<br/>
+ma  ya   ra</p>
+
+<p>With on the *-button the <em>dakuten</em> and <em>handakuten</em> (modifiers).</p>
+
+<p>Pressing on the buttons repeatedly switches between the a-i-u-e-o versions of the corresponding symbol. So if you want to type, for example, かぶき (<em>kabuki</em>) you press: 2666*22.</p>
+
+<p>Special cases are the 8-button, wich only has ya-yu-yo and the 0-button, which has only wa-wo-n.</p>
+
+<p>The most important button on this phone is in the lower right corner, which allows you to put it into <em>manner</em> (silent) mode.</p>
+
+<p><strong>Japanese:</strong> 日本のなつあついですよそしてあめたくさんふっている。</p>
+
+<p>なつのあいだ、たくさんのももをたべる。きのう、ももとパスタつくった、つくりかた日本にならった。</p>
+
+<p>日本にけいたのとくべつなボタンはマナーモードのだ。がいこくのでんわはマナーモードない。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Akashi]]></title>
     <link href="http://pelupessy.github.io/blog/2015/07/19/akashi/"/>
     <updated>2015-07-19T19:28:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2015/07/19/akashi</id>
@@ -402,19 +435,6 @@
 <p><strong>English:</strong> This week I am in Kyoto for a workshop (indeed, during christmas).</p>
 
 <p><strong>にほんごで:</strong> このクリスマス京都にいる。とくべつなワークショップにゆく。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[rabbit]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/12/22/rabbit/"/>
-    <updated>2014-12-22T18:51:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/12/22/rabbit</id>
-    <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-L37FDWn/0/O/i-L37FDWn.jpg"><img class="center" src="http://www.smugmug.com/photos/i-L37FDWn/0/X2/i-L37FDWn-X2.jpg"></a></p>
-
-<p><strong>にほんごで:</strong> 日本にミッフィーがゆうめい。ブルーナディックはオランダにミッフィーの本をかいた。オランダへゆきとき、<a href="http://centraalmuseum.nl/en/visit/locations/dick-bruna-house/">dick bruna huis</a>をみてください。</p>
-
-<p><strong>English:</strong> A somewhat famous Dutch character can be found on many products here, including soup.</p>
 ]]></content>
   </entry>
   
