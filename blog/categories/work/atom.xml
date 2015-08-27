@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: work | Research in Japan]]></title>
+  <link href="http://pelupessy.github.io/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://pelupessy.github.io/"/>
+  <updated>2015-08-27T20:28:54+09:00</updated>
+  <id>http://pelupessy.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Pelupessy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[note to self]]></title>
+    <link href="http://pelupessy.github.io/blog/2015/08/27/ttr/"/>
+    <updated>2015-08-27T20:17:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2015/08/27/ttr</id>
+    <content type="html"><![CDATA[<p><strong>えいごで:</strong> When writing a mathematics paper: your notation probably needs some explanation.</p>
+
+<p><strong>Japanese:</strong> ろんぶんかいたら、たぶん、だれもはノウテイションわかりません。</p>
+]]></content>
+  </entry>
+  
+</feed>
