@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2015-12-31T23:01:22+09:00</updated>
+  <updated>2016-01-01T20:40:38+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -14,7 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new year soba]]></title>
+    <title type="html"><![CDATA[new year soba:dashi]]></title>
+    <link href="http://pelupessy.github.io/blog/2016/01/01/new-year-soba2/"/>
+    <updated>2016-01-01T20:25:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2016/01/01/new-year-soba2</id>
+    <content type="html"><![CDATA[<p><strong>Japanese:</strong> だしをつくりました。</p>
+
+<p><strong>えいごで:</strong> The second component for the soup is <em>dashi</em> (stock). Make it the same way as for the miso soup, adding some extra bonito flakes for a more luxurious taste. This time I made it Kyoto-style; leave the kelp overnight in some water in the fridge, then add bonito flakes and heat for 15 minutes. Remove the kelp before the water starts to boil.</p>
+
+<!-- more -->
+
+
+<p><a href="https://photos.smugmug.com/photos/i-ZvMCVKP/0/O/i-ZvMCVKP.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-ZvMCVKP/0/XL/i-ZvMCVKP-XL.jpg"></a>
+<em>konbu</em> (kelp)</p>
+
+<p><a href="https://photos.smugmug.com/photos/i-w7gSzT7/0/O/i-w7gSzT7.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-w7gSzT7/0/XL/i-w7gSzT7-XL.jpg"></a>
+<em>katsuoboshi</em> (bonito flakes)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new year soba:kaeshi]]></title>
     <link href="http://pelupessy.github.io/blog/2015/12/31/new-year-soba/"/>
     <updated>2015-12-31T22:31:00+09:00</updated>
     <id>http://pelupessy.github.io/blog/2015/12/31/new-year-soba</id>
@@ -31,7 +51,7 @@ I prefer to use <em>honmirin</em>, which contains around 14% of alcohol.</p>
 <p><a href="https://photos.smugmug.com/photos/i-jqHfCk8/0/O/i-jqHfCk8.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-jqHfCk8/0/XL/i-jqHfCk8-XL.jpg"></a>
 Heat the mirin, let it simmer, add the sugar, stir until dissolved.
 <a href="https://photos.smugmug.com/photos/i-3tGSTFF/0/O/i-3tGSTFF.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-3tGSTFF/0/XL/i-3tGSTFF-XL.jpg"></a>
-Add soy-sauce, slowly heat and stir, not letting it boil, stop when the bubbles start. Leave to cool, if possible keep in the fridge for one day.</p>
+Add soy-sauce, slowly heat and stir, not letting it boil, stop when the bubbles start. Leave to cool, if possible, keep in the fridge for one day.</p>
 ]]></content>
   </entry>
   
@@ -443,17 +463,6 @@ ma  ya   ra</p>
 <p><a href="http://www.smugmug.com/photos/i-Rs2PVnK/0/O/i-Rs2PVnK.jpg"><img class="center" src="http://www.smugmug.com/photos/i-Rs2PVnK/0/X2/i-Rs2PVnK-X2.jpg"></a></p>
 
 <p>Eat</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[language 2]]></title>
-    <link href="http://pelupessy.github.io/blog/2015/01/21/language2/"/>
-    <updated>2015-01-21T20:57:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2015/01/21/language2</id>
-    <content type="html"><![CDATA[<p><strong>オランダごで:</strong> Het Japanse woordje <em>kirei</em> vertoont een opmerkelijke overeenkomst met het Nederlandse <em>schoon</em>. De twee betekenissen zijn in beide talen gelijk.</p>
-
-<p><strong>Japans:</strong> 「きれい」おもしろいことばだ。オランダごでは<em>schoon</em>、でもえいごでは<em>clean</em>と<em>beautiful</em>. つかいかたはにほんごでとオランダごでおなじだ。</p>
 ]]></content>
   </entry>
   
