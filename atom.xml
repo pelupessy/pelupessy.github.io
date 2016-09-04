@@ -4,7 +4,7 @@
   <title><![CDATA[Research in Japan]]></title>
   <link href="http://pelupessy.github.io/atom.xml" rel="self"/>
   <link href="http://pelupessy.github.io/"/>
-  <updated>2016-08-21T20:14:45+09:00</updated>
+  <updated>2016-09-04T19:19:54+09:00</updated>
   <id>http://pelupessy.github.io/</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[signs]]></title>
+    <link href="http://pelupessy.github.io/blog/2016/09/04/signs/"/>
+    <updated>2016-09-04T19:00:00+09:00</updated>
+    <id>http://pelupessy.github.io/blog/2016/09/04/signs</id>
+    <content type="html"><![CDATA[<p><strong>English:</strong> Warnings and requests which bring a smile to one&rsquo;s face during the daily commute.</p>
+
+<p><strong>日本語で:</strong> ちかてつで行って、あんぜんに、かいてきに:</p>
+
+<p><a href="https://photos.smugmug.com/photos/i-2twFKM5/0/O/i-2twFKM5.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-2twFKM5/0/X2/i-2twFKM5-X2.jpg"></a></p>
+
+<p><a href="https://photos.smugmug.com/photos/i-mzMdQq8/0/O/i-mzMdQq8.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-mzMdQq8/0/X2/i-mzMdQq8-X2.jpg"></a></p>
+
+<p><a href="https://photos.smugmug.com/photos/i-LgTwJBS/0/O/i-LgTwJBS.jpg"><img class="center" src="https://photos.smugmug.com/photos/i-LgTwJBS/0/X2/i-LgTwJBS-X2.jpg"></a></p>
+
+<p>おもしろかった。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[breakfast]]></title>
@@ -446,39 +465,6 @@ Add soy-sauce, slowly heat and stir, not letting it boil, stop when the bubbles 
     <content type="html"><![CDATA[<p><strong>えいごで:</strong> When writing a mathematics paper: your notation probably needs some explanation.</p>
 
 <p><strong>Japanese:</strong> すうがくのろんぶんかいたら、たぶん、だれもはノウテイションわかりません。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Small observations Sunday]]></title>
-    <link href="http://pelupessy.github.io/blog/2015/08/16/misc21/"/>
-    <updated>2015-08-16T19:09:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2015/08/16/misc21</id>
-    <content type="html"><![CDATA[<p><strong>えいごで:</strong> The famously hot Japanese summer is now in full force. This period is easily recognised by the chirping of cicada&rsquo;s, hot temperature and bouts of heavy rain caused by passing typhoons. Luckily, in Sendai temperatures are quite mild in comparison to West-Japan.</p>
-
-<p>In Japan the feature-phones are still in heavy use. Japanese text input is surprisingly easy, provided that one has learned the <a href="http://www.textfugu.com/resources/hiragana-chart/">a-i-u-e-o</a> of the hiragana charts.</p>
-
-<p><img class="center" src="http://www.smugmug.com/photos/i-jk34ggN/0/L/i-jk34ggN-L.jpg"></p>
-
-<p>For kanji-mode, the shown <em>hiragana</em>  (phonetic symbols) are:</p>
-
-<p>a    ka   sa <br/>
-ta   na   ha<br/>
-ma  ya   ra</p>
-
-<p>With on the *-button the <em>dakuten</em> and <em>handakuten</em> (modifiers).</p>
-
-<p>Pressing on the buttons repeatedly switches between the a-i-u-e-o versions of the corresponding symbol. So if you want to type, for example, かぶき (<em>kabuki</em>) you press: 2666*22.</p>
-
-<p>Special cases are the 8-button, wich only has ya-yu-yo and the 0-button, which has only wa-wo-n.</p>
-
-<p>The most important button on this phone is in the lower right corner, which allows you to put it into <em>manner</em> (silent) mode.</p>
-
-<p><strong>Japanese:</strong> 日本のなつあついですよそしてあめたくさんふっている。</p>
-
-<p>なつのあいだ、たくさんのももをたべる。きのう、ももとパスタつくった、つくりかた日本にならった。</p>
-
-<p>日本にけいたのとくべつなボタンはマナーモードのだ。がいこくのでんわはマナーモードのボタンない。</p>
 ]]></content>
   </entry>
   
