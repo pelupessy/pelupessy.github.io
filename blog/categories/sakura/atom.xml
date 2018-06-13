@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sakura | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/sakura/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/sakura/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[sakura]]></title>
-    <link href="http://pelupessy.github.io/blog/2018/03/29/sakura/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2018/03/29/sakura/"/>
     <updated>2018-03-29T17:33:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2018/03/29/sakura</id>
+    <id>http://blog.florian.fastmail.jp//blog/2018/03/29/sakura</id>
     <content type="html"><![CDATA[<p>Cherry blossom!</p>
 
 <p>さくら！</p>

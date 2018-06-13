@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Kachikachi | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/kachikachi/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/kachikachi/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kachikachi 2]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/05/22/kachikachi2/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2014/05/22/kachikachi2/"/>
     <updated>2014-05-22T23:58:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/05/22/kachikachi2</id>
+    <id>http://blog.florian.fastmail.jp//blog/2014/05/22/kachikachi2</id>
     <content type="html"><![CDATA[<p><strong>Nederlands:</strong> Geheel gemist bij het voor het eerst lezen: het wasbeertje weet niet alleen de oude vrouw een flinke mep te geven, hij maakt er ook nog eens oude-vrouwtjessoep van om aan de man te voeren.</p>
 
 <p><strong>English:</strong> Completely missed this while reading the story for the first time: the raccoon not only hits the old woman, he also makes her into a soup and feeds her to the husband.</p>

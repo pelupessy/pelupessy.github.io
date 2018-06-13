@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: illumination | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/illumination/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/illumination/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Illumination and Snow]]></title>
-    <link href="http://pelupessy.github.io/blog/2013/12/15/illumination/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2013/12/15/illumination/"/>
     <updated>2013-12-15T20:47:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2013/12/15/illumination</id>
+    <id>http://blog.florian.fastmail.jp//blog/2013/12/15/illumination</id>
     <content type="html"><![CDATA[<p><strong>English:</strong> Cold, snow and lights.</p>
 
 <p><strong>Nederlands:</strong> Kou, sneeuw en lampjes.</p>

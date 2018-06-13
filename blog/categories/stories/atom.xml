@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: stories | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/stories/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/stories/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Small facts Sunday]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/12/07/misc18/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2014/12/07/misc18/"/>
     <updated>2014-12-07T19:41:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/12/07/misc18</id>
+    <id>http://blog.florian.fastmail.jp//blog/2014/12/07/misc18</id>
     <content type="html"><![CDATA[<p><strong>えいごで:</strong> The weather is getting colder this week, including some snow!</p>
 
 <p><strong>Japanese:</strong> こんしゅうてんきがさむくなった、ゆきふった。</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[kachikachi]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/05/11/kachikachi/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2014/05/11/kachikachi/"/>
     <updated>2014-05-11T18:11:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/05/11/kachikachi</id>
+    <id>http://blog.florian.fastmail.jp//blog/2014/05/11/kachikachi</id>
     <content type="html"><![CDATA[<p><img class="center" src="/images/kachikachi.jpg" title="" ></p>
 
 <!-- more -->

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: work | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/work/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[tokyo]]></title>
-    <link href="http://pelupessy.github.io/blog/2016/10/01/tokyo/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2016/10/01/tokyo/"/>
     <updated>2016-10-01T20:37:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2016/10/01/tokyo</id>
+    <id>http://blog.florian.fastmail.jp//blog/2016/10/01/tokyo</id>
     <content type="html"><![CDATA[<p><strong>えいごで:</strong> Last week I went to Tokyo for the organisation of a conference at Waseda University.</p>
 
 <p><strong>Japanese:</strong> せんしゅうカンファレンスに東京へ行きました。　がいこくけんきゅうしゃたくさんきました。おつかれさまでした。</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kyoto]]></title>
-    <link href="http://pelupessy.github.io/blog/2016/09/26/kyoto/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2016/09/26/kyoto/"/>
     <updated>2016-09-26T19:28:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2016/09/26/kyoto</id>
+    <id>http://blog.florian.fastmail.jp//blog/2016/09/26/kyoto</id>
     <content type="html"><![CDATA[<p><strong>えいごで:</strong> I visited Kyoto for a small international workshop at Kyoto University. Despite the busy schedule, we managed to steal a few hours for some local tourism.</p>
 
 <p><strong>Japanese:</strong> せんせんしゅう ワークショップに京都へ行きました。</p>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[note to self]]></title>
-    <link href="http://pelupessy.github.io/blog/2015/08/27/ttr/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2015/08/27/ttr/"/>
     <updated>2015-08-27T20:17:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2015/08/27/ttr</id>
+    <id>http://blog.florian.fastmail.jp//blog/2015/08/27/ttr</id>
     <content type="html"><![CDATA[<p><strong>えいごで:</strong> When writing a mathematics paper: your notation probably needs some explanation.</p>
 
 <p><strong>Japanese:</strong> すうがくのろんぶんかいたら、たぶん、だれもはノウテイションわかりません。</p>

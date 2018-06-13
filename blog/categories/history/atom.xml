@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: history | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/history/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/history/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[history]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/02/09/history/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2014/02/09/history/"/>
     <updated>2014-02-09T12:51:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/02/09/history</id>
+    <id>http://blog.florian.fastmail.jp//blog/2014/02/09/history</id>
     <content type="html"><![CDATA[<p>This post is <strong>English</strong> only.</p>
 
 <p>この はなしがえいごであります。</p>

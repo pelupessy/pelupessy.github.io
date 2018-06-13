@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: laundry | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/laundry/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/laundry/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Laundry]]></title>
-    <link href="http://pelupessy.github.io/blog/2013/10/30/laundry/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2013/10/30/laundry/"/>
     <updated>2013-10-30T20:17:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2013/10/30/laundry</id>
+    <id>http://blog.florian.fastmail.jp//blog/2013/10/30/laundry</id>
     <content type="html"><![CDATA[<p><strong>English</strong></p>
 
 <p>Everyday actions get interesting if you do not know the language of a country. For example, losing the ticket for the bus increases embarrassment exponentially or one may have the irrational fear of accidentally pushing a button for the natto special at a noodle restaurant. Case in point:

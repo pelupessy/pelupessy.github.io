@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: lige | in Japan]]></title>
-  <link href="http://pelupessy.github.io/blog/categories/lige/atom.xml" rel="self"/>
-  <link href="http://pelupessy.github.io/"/>
-  <updated>2018-06-04T22:20:30+09:00</updated>
-  <id>http://pelupessy.github.io/</id>
+  <link href="http://blog.florian.fastmail.jp//blog/categories/lige/atom.xml" rel="self"/>
+  <link href="http://blog.florian.fastmail.jp//"/>
+  <updated>2018-06-14T03:41:27+09:00</updated>
+  <id>http://blog.florian.fastmail.jp//</id>
   <author>
     <name><![CDATA[Florian Pelupessy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Autumn]]></title>
-    <link href="http://pelupessy.github.io/blog/2014/11/16/misc16/"/>
+    <link href="http://blog.florian.fastmail.jp//blog/2014/11/16/misc16/"/>
     <updated>2014-11-16T20:58:00+09:00</updated>
-    <id>http://pelupessy.github.io/blog/2014/11/16/misc16</id>
+    <id>http://blog.florian.fastmail.jp//blog/2014/11/16/misc16</id>
     <content type="html"><![CDATA[<p><a href="http://www.smugmug.com/photos/i-f6pVqfD/0/O/i-f6pVqfD.jpg"><img class="center" src="http://www.smugmug.com/photos/i-f6pVqfD/0/X2/i-f6pVqfD-X2.jpg"></a></p>
 
 <p><strong>English:</strong> View from 12th floor whilst hurrying to the weekly seminar.</p>
